@@ -13,3 +13,4 @@ def AND(x1, x2):
         return 1
 
 
+print(AND(0, 0))
